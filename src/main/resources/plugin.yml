@@ -1,0 +1,7 @@
+name: AntiCobbleGen
+version: @version@
+main: com.patrity.anticobblegen.AntiCobbleGen
+api-version: 1.16
+authors: [ Patrity ]
+description: Prevents cobblestone from forming with lava and water
+website: https://patrity.com
